@@ -1,0 +1,26 @@
+
+/*主体开始*/
+.main{
+	background-color: #e8e8e8;
+}
+.main-inner{
+	background-color: #fff;
+	width: 1020px;
+	margin: 0 auto;
+	/*border: 1px solid red;*/
+}
+.shubao{
+	width: 1020px;
+	padding-top: 34px;
+	padding-left: 14px;
+	/*border: 1px solid blue;*/
+}
+.bao1{
+	width: 210px;
+	float: left;
+	padding-right: 43px;
+}
+.bao1 .p1{font-size:14px;font-weight: bold;padding-top: 31px;}
+.bao1 .p2{color: #ec3891;padding-top: 13px;}
+.bao1 .qian{color: #808080;}
+
